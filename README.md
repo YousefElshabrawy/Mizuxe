@@ -5,6 +5,7 @@ Mizxue is a landing page for a book. It,s one of the projects of the [Bootstap 4
 ## 💻 Build with
 
 - HTML5
+- SASS
 - Bootstrap 4
 
 [See on the browser](https://yousefelshabrawy.github.io/Mizuxe/)
